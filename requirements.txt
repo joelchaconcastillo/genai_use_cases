@@ -1,0 +1,14 @@
+transformers>=4.30.0
+torch>=2.0.0
+datasets
+sentence-transformers
+faiss-cpu
+langchain
+openai
+fastapi
+uvicorn
+scikit-learn
+numpy
+pandas
+sentencepiece
+accelerate
