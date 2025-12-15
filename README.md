@@ -1,3 +1,41 @@
+# 🧠 GenAI Cookbook
+
+A practical, notebook-based collection of **real-world Generative AI patterns and systems**.  
+This repository contains **self-contained Jupyter notebooks** that demonstrate how to design, build, and orchestrate modern GenAI applications — from RAG pipelines to multi-agent and multimodal systems.
+
+---
+
+## 🎯 Goals
+
+- Provide clear, runnable examples of common Generative AI capabilities
+- Focus on reusable **design patterns**, not just libraries or tools
+- Progress from fundamentals to advanced orchestration
+- Serve as a long-term **reference cookbook** for GenAI system builders
+
+---
+
+## 🗂 Repository Structure
+
+The repository is organized by **capability first**, then **pattern**, and finally **tool-specific implementations**.
+
+
+
+genai-cookbook/
+├─ notebooks/
+│ ├─ 01-fundamentals/
+│ ├─ 02-embeddings/
+│ ├─ 03-retrieval-and-search/
+│ ├─ 04-data-reasoning/
+│ ├─ 05-multimodal/
+│ ├─ 06-conversational-systems/
+│ ├─ 07-agents/
+│ ├─ 08-orchestration-patterns/
+│ ├─ 09-langgraph-patterns/
+│ ├─ 10-end-to-end-systems/
+├─ data/
+├─ utils/
+└─ README.md
+
 
 ---
 
