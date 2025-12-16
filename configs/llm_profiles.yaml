@@ -1,0 +1,12 @@
+profiles:
+#  hf-small:
+#    provider: hf
+#    model: sentence-transformers/all-MiniLM-L6-v2
+#    device: -1
+#    api_key_env: HUGGINGFACE_API_KEY
+
+  gemini-default:
+    provider: gemini
+    model: gemini-2.5-flash
+    temperature: 1.0
+    api_key_env: GEMINI_API_KEY

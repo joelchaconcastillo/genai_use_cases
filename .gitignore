@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# dotenv environment files
+.env
+.env.*
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+coverage.xml
+
+# Caches
+.mypy_cache/
+.cache/
+
+# Model artifacts and indexes
+models/
+*.index
+*.faiss
+
+# Data (if you have large datasets, keep them out of git)
+# Uncomment if you want to ignore the data folder by default
+# data/
